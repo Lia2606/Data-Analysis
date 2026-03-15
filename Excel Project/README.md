@@ -29,3 +29,11 @@ Tools, Skills, Analytical Frameworks:
 - Excel: Power query, Power pivot, Pivot tables, Data modeling, Formulas, Dashboard
 - Power BI: DAX measures, Star schema, Dashboards
 - AARRR Funnel, Marketplace Flywheel, RFM Segmentation, Prioritization Matrix, Pareto Analysis
+Limitations:
+- GMV ≠ Olist revenue. Olist's take rate (commission %) is unknown.
+- Correlation ≠ causation. Delivery → review relationship (r = −0.30) is correlational, not causal.
+- Customer identity. Different emails = different customers. True repeat rate may be slightly higher than 3.12%.
+- No demographics. Age, gender, income unavailable — segmentation limited to RFM.
+- No marketing cost data. CAC unknown — retention campaign ROI cannot be precisely estimated.
+- Limited time range. Effective period: 2017 Q1 – 2018 Q3 (21 months).
+- Brazilian market context. Findings may not directly transfer to other markets.

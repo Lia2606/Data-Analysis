@@ -37,6 +37,7 @@
      - KPI: Repeat Rate 3.12% → 10%
    - #3: Manage Seller Quality - Automated monthly seller scorecard. Prioritize sellers with Review < 3.5 AND GMV top 20%. Apply visibility restrictions after 3 consecutive months below threshold.
      - KPI: Bottom 10% seller avg review → 3.5★
+       
 5. RFM Segmentation Summary
 
 | Segment | Customers | Revenue Share |

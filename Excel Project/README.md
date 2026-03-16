@@ -4,10 +4,11 @@
 3. Project Overview:
    1) EDA: Profiled all 9 tables - row counts, blanks, 
    unique values, descriptive statistics. 
-   ([See full profiling →]) #### Key discovery: 99,441 orders from 96,096 unique customers
-   2) #### Key Question: "Why do 97% of customers never return, and what can be done to improve customer lifetime value?"
-   3) Data Cleaning (uploaded as a file)
-   4) Building Hypothesis
+   ([See full profiling →])
+#### Key discovery: 99,441 orders from 96,096 unique customers
+   3) #### Key Question: "Why do 97% of customers never return, and what can be done to improve customer lifetime value?"
+   4) Data Cleaning (uploaded as a file)
+   5) Building Hypothesis
 
    | Branch | Hypothesis |
    |--------|-----------|

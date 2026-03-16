@@ -46,7 +46,7 @@
 | AOV | $159.66 | Power Pivot measure |
 | Basket Size (UPT) | 1.13 | Power Pivot measure |
 
-### Customer
+   Customer
 
 | Metric | Value | Source |
 |--------|-------|--------|
@@ -54,7 +54,7 @@
 | Repeat Purchase Rate | 3.12% | RFM / Customer Economics |
 | Churn Rate | 96.88% (= 1 - Repeat Rate) | Derived |
 
-### Supply Chain / Operations
+   Supply Chain / Operations
 
 | Metric | Value | Source |
 |--------|-------|--------|
@@ -66,7 +66,7 @@
 | P95 Delivery | 29 days | Quick Calcs |
 | SLA Breach Rate | 6.6% | Quick Calcs |
 
-### Product Analytics (AARRR)
+   Product Analytics (AARRR)
 
 | Stage | Analysis | Result |
 |-------|----------|--------|
@@ -76,7 +76,7 @@
 | Revenue | CLV vs AOV | $165 ≈ $160 ✗ |
 | Referral | Review Score Distribution | 56% 5★, 13% 1★ ⚠ |
 
-### Other
+   Other
 
 | Metric | Value | Source |
 |--------|-------|--------|
@@ -89,6 +89,7 @@
 | Time-to-Second-Purchase (mean) | 87.3 days | RFM |
 | GMV per Repeat Customer | $315.39 | RFM |
 | First-time vs Repeat GMV Split | 94% vs 6% | RFM |
+
 6. Detailed Analysis
 
 Limitations:

@@ -10,7 +10,6 @@
    4) Data Cleaning (uploaded as a file)
    5) Building Hypothesis
    
-
    | Branch | Hypothesis |
    |--------|-----------|
    | Product | Poor product quality drives dissatisfaction |

@@ -45,7 +45,7 @@
 
 6) Key Metrics
 
-   Revenue & Sales
+Revenue & Sales
 
 | Metric | Value | 
 |--------|-------|

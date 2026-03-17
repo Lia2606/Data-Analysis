@@ -98,9 +98,9 @@
 | Champions | 14 | 0.1% | 
 
 99.3% of customers are either New/Potential or Lost/Inactive. The New/Potential segment alone holds 40.5% of GMV; the single biggest conversion opportunity.
-     
+
 8) Quantifying the Impact: Improving repeat rate from 3% to 10% could generate ~$2.1M in additional GMV. (10% target assumes a conservative 3× improvement from current rate; typical marketplace repeat rates range 20-30%, making 10% a modest first milestone.)
-      
+
 9) The Causal Chain:
    - Carrier Bottleneck → Delivery Delay → Review Score Collapse → Customer Does Not Return → Growth Depends Entirely on New Acquisition
      

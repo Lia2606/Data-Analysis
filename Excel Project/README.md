@@ -38,7 +38,7 @@
    
    5) Testing Each Branch
    - Product → Product quality was not the differentiator.
-   - Delivery → Confirmed by the correlation with average review score.
+   - Delivery → Supported by the correlation with average review score.
    - Platform → Not a major factor.
    - Seller → Secondary risk.
      

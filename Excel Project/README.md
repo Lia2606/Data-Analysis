@@ -115,7 +115,7 @@ Revenue & Sales
 
 ### Limitations:
 - GMV ≠ Olist revenue. Olist's take rate (commission %) is unknown.
-- Correlation ≠ causation. Delivery → review relationship (r = −0.30) is correlational, not causal.
+- Correlation ≠ causation. Delivery → review relationship (r = −0.30) is correlational, not causal. Other factors may contribute.
 - Customer identity. Different emails = different customers. True repeat rate may be slightly higher than 3.12%.
 - No marketing cost data. CAC unknown; retention campaign ROI cannot be precisely estimated.
 - Limited time range. Effective period: 2017 Q1 – 2018 Q3 (21 months).

@@ -113,7 +113,7 @@ Revenue & Sales
      - KPI: Bottom 10% seller avg review → 3.5★
    
 
-Limitations:
+### Limitations:
 - GMV ≠ Olist revenue. Olist's take rate (commission %) is unknown.
 - Correlation ≠ causation. Delivery → review relationship (r = −0.30) is correlational, not causal.
 - Customer identity. Different emails = different customers. True repeat rate may be slightly higher than 3.12%.
@@ -122,7 +122,7 @@ Limitations:
 - Cohort retention analysis was not performed due to the extremely low repeat rate (3.12%); cohort matrices would be near-empty and add limited analytical value.
 - RFM segmentation has limited discriminating power in this dataset due to the 3.12% repeat rate; 99.3% of customers fall into only two segments (New/Potential and Lost/Inactive)
 
-Tools, Skills, Frameworks:
+### Tools, Skills, Frameworks:
    - Excel: Power query, Power pivot, Pivot tables, Data modeling, Formulas, Dashboard
    - Power BI: DAX measures, Star schema, Dashboards
    - AARRR, Marketplace Flywheel, RFM Segmentation, Prioritization Matrix, Pareto Analysis

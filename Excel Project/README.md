@@ -41,34 +41,9 @@
    - Delivery → Supported by the correlation with average review score.
    - Platform → Not a major factor.
    - Seller → Secondary risk.
-     
-   6) Quantifying the Impact: Improving repeat rate from 3% to 10% could generate ~$2.1M in additional GMV.
-      
-   7) The Causal Chain:
-   - Carrier Bottleneck → Delivery Delay → Review Score Collapse → Customer Does Not Return → Growth Depends Entirely on New Acquisition
-     
-   8) Strategic Recommendations:
-   - #1: Fix Delivery - Enforce carrier SLA with P90 target of 15 days (currently 22). Replicate SP's logistics model (8.3 days avg) in underperforming states (RJ: 14.7 days, BA: 18.8 days). Establish monthly OTDR monitoring dashboard.
-     - KPI: OTDR 93.4% → 95%
-   - #2: Convert First-Time Buyers - Category-based product recommendation emails at 2 weeks post-purchase. 10% discount coupon at 3 weeks. Reminder at 4 weeks. A/B test timing for optimization.
-     - KPI: Repeat Rate 3.12% → 10%
-   - #3: Manage Seller Quality - Automated monthly seller scorecard. Prioritize sellers with Review < 3.5 AND GMV top 20%. Apply visibility restrictions after 3 consecutive months below threshold.
-     - KPI: Bottom 10% seller avg review → 3.5★
-       
-4. RFM Segmentation Summary
-
-| Segment | Customers | Revenue Share |
-|---------|-----------|---------------|
-| New/Potential | 38,176 | 40.5% | 
-| Lost/Inactive | 56,722 | 56.9% | 
-| At Risk | 988 | 1.8% | 
-| Loyal | 123 | 0.4% | 
-| Can't Lose | 71 | 0.2% | 
-| Champions | 14 | 0.1% | 
-
-99.3% of customers are either New/Potential or Lost/Inactive. The New/Potential segment alone holds 40.5% of GMV; the single biggest conversion opportunity.
-
-5. Key Metrics
+   - Detailed Analysis - [Data Cleaning Log & Key Insights (PDF)](./Olist_Data%20Cleaning%20Log%20&%20Key%20Insights.pdf)
+  
+   6) Key Metrics
 
    Revenue & Sales
 
@@ -111,7 +86,32 @@
 | GMV per Repeat Customer | $315.39 | 
 | First-time vs Repeat GMV Split | 94% vs 6% | 
 
-6. Detailed Analysis - [Data Cleaning Log & Key Insights (PDF)](./Olist_Data%20Cleaning%20Log%20&%20Key%20Insights.pdf)
+   7) RFM Segmentation Summary
+
+| Segment | Customers | Revenue Share |
+|---------|-----------|---------------|
+| New/Potential | 38,176 | 40.5% | 
+| Lost/Inactive | 56,722 | 56.9% | 
+| At Risk | 988 | 1.8% | 
+| Loyal | 123 | 0.4% | 
+| Can't Lose | 71 | 0.2% | 
+| Champions | 14 | 0.1% | 
+
+99.3% of customers are either New/Potential or Lost/Inactive. The New/Potential segment alone holds 40.5% of GMV; the single biggest conversion opportunity.
+     
+   8) Quantifying the Impact: Improving repeat rate from 3% to 10% could generate ~$2.1M in additional GMV. (10% target assumes a conservative 3× improvement from current rate; typical marketplace repeat rates range 20-30%, making 10% a modest first milestone.)
+      
+   9) The Causal Chain:
+   - Carrier Bottleneck → Delivery Delay → Review Score Collapse → Customer Does Not Return → Growth Depends Entirely on New Acquisition
+     
+   10) Strategic Recommendations:
+   - #1: Fix Delivery - Enforce carrier SLA with P90 target of 15 days (currently 22). Replicate SP's logistics model (8.3 days avg) in underperforming states (RJ: 14.7 days, BA: 18.8 days). Establish monthly OTDR monitoring dashboard.
+     - KPI: OTDR 93.4% → 95%
+   - #2: Convert First-Time Buyers - Category-based product recommendation emails at 2 weeks post-purchase. 10% discount coupon at 3 weeks. Reminder at 4 weeks. A/B test timing for optimization.
+     - KPI: Repeat Rate 3.12% → 10%
+   - #3: Manage Seller Quality - Automated monthly seller scorecard. Prioritize sellers with Review < 3.5 AND GMV top 20%. Apply visibility restrictions after 3 consecutive months below threshold.
+     - KPI: Bottom 10% seller avg review → 3.5★
+   
 
 Limitations:
 - GMV ≠ Olist revenue. Olist's take rate (commission %) is unknown.
